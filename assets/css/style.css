@@ -167,6 +167,14 @@ a:hover, a:focus, a:active {
   margin: 30px 0;
 }
 
+/*tips/ tips
+ =================================*/
+.tips-col {
+  text-align: center;
+  width: 60%;
+  margin-left:20%;
+}
+
 /* home/ about-us 
 ================================= */
 .about-us {
