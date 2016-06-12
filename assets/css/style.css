@@ -40,7 +40,7 @@ a:hover, a:focus, a:active {
 }
 
 .navbar-top {
-  background: #228b22/*#3A5F0B*/;
+  background: /*#266A2E*//*#228b22*/#3A5F0B;
   font-size: 12px;
   padding: 3px 0;
 }
@@ -57,7 +57,7 @@ a:hover, a:focus, a:active {
 .navbar-main {
   margin-bottom: 0;
   color: #fff;
-  background: #228b22/*#3A5F0B*//*#1f76bd*/;
+  background: #266A2E/*#228b22*//*#3A5F0B*//*#1f76bd*/;
 }
 .navbar-main .navbar-brand {
   border-bottom: none !important;
