@@ -487,6 +487,23 @@ a:hover, a:focus, a:active {
   font-size: 18px;
 }
 
+.page-heading_tips {
+  background: url('../images/headers/road.jpg?1428795369') no-repeat center;
+  background-size: cover;
+  min-height: 200px;
+  color: white;
+  padding: 25px 15px;
+  margin-bottom: 50px;
+}
+
+.page-heading_tips .title-under {
+  background: #fff;
+}
+
+.page-description_tips {
+  font-size: 18px;
+}
+
 .main-container {
   margin-bottom: 50px;
 }
@@ -1211,4 +1228,8 @@ li.dropdown {
   display: block;
   width: 32px;
   height: 32px;
+}
+
+.left_shifted {
+	float : right
 }
