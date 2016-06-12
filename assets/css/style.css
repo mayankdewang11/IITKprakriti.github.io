@@ -1230,6 +1230,12 @@ li.dropdown {
   height: 32px;
 }
 
+.logo8 {
+  display: block;
+  width: 19px;
+  height: 16px;
+}
+
 .left_shifted {
 	float : right
 }
